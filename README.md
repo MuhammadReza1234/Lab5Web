@@ -488,7 +488,6 @@ input[type="submit"]:hover {
 }
 ```
 
-![Screenshot (351)](https://github.com/rniarzz/Lab5web/assets/115542704/606237e0-91cd-4747-85dc-fa5d0fbc137e)
-
+![IMG-20231029-WA0014](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/5fb43b8a-a138-49fe-80e7-f24e425d77fd)
 
 <h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>

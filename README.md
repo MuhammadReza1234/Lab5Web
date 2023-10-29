@@ -311,7 +311,7 @@ Persiapan membuat dokumen HTML dengan nama file **lab5_javascript.html** seperti
 </html>
 ```
 
-![Screenshot (349)](https://github.com/rniarzz/Lab5web/assets/115542704/4c6beb55-d4a7-4bdb-b74b-3864dec06d2a)
+![IMG-20231029-WA0016](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/ae42e04f-20e9-45c2-ba63-84bf9f90aa6a)
 
 ---
 

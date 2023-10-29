@@ -178,6 +178,8 @@ Persiapan membuat dokumen HTML dengan nama file **lab5_javascript.html** seperti
 
 ![IMG-20231029-WA0017](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/fadf511b-08d0-4e43-9fbf-9bfb16ab8827)
 
+---
+
 ![IMG-20231029-WA0030](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/8645d6eb-a364-4fed-9c23-5adfbad7d0b7)
 
 ![IMG-20231029-WA0024](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/796ac8a7-6683-4a48-9034-be0810117e43) 
@@ -228,6 +230,8 @@ Persiapan membuat dokumen HTML dengan nama file **lab5_javascript.html** seperti
 ![IMG-20231029-WA0025](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/56b2a034-0559-47a6-b4fe-5d0a12edd76c)
 
 ![IMG-20231029-WA0020](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/90219ddf-0943-4b05-96ee-f4a764f5e5dc)
+
+---
 
 ![IMG-20231029-WA0021](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/13009c68-43ff-43d7-a36c-b42345aeb35b)
 

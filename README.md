@@ -171,13 +171,13 @@ Persiapan membuat dokumen HTML dengan nama file **lab5_javascript.html** seperti
 </html>
 ```
 
-![Screenshot (338)](https://github.com/rniarzz/Lab5web/assets/115542704/d96c0851-cc11-4486-b25c-3ec6d2434773)
+![IMG-20231029-WA0024](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/3d092502-1391-4608-bcc3-253d72e3ccc4)
 
-![Screenshot (339)](https://github.com/rniarzz/Lab5web/assets/115542704/1345a0dd-f7ef-47d5-a4fd-71d938844d96)
+![IMG-20231029-WA0030](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/2501663d-d325-441b-8c84-b34833a9553b)
 
-![Screenshot (340)](https://github.com/rniarzz/Lab5web/assets/115542704/d11c3a17-0d1c-4d58-aed7-7e299fd78b71)
+![IMG-20231029-WA0017](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/fe29ea3b-ce76-42d1-9c3f-fe00051dccba)
 
-![Screenshot (341)](https://github.com/rniarzz/Lab5web/assets/115542704/12dd305c-83e5-4ef9-bb2d-0266339a65d7)
+![IMG-20231029-WA0027](https://github.com/MuhammadReza1234/Lab5Web/assets/115516607/ec205692-d0d1-450b-8b6e-92951275d356)
 
 ---
 
